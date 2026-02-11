@@ -19,10 +19,6 @@ Preparing raw data for analysis through:
 - Writing reusable functions
 - Error handling and debugging techniques
 
-### Exploratory Data Analysis (EDA)
-Understanding data behavior through:
-- Aggregation for trend analysis
-- Grouping for extracting insights
 
 ### Visualization
 Exploring data visually using:
