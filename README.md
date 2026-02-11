@@ -1,39 +1,126 @@
-# Data Science Bootcamp – Pandas Journey
+# 📊 Data Science Bootcamp — Pandas Journey
 
-This repository documents my hands-on journey using **Pandas**, a powerful Python library for data manipulation and analysis, to transform raw datasets into structured insights, explore trends, and solve real-world data challenges.
+This repository documents my step-by-step journey through learning **data wrangling, exploratory data analysis, visualization, and project work** using **Pandas** and real e-commerce datasets (Eniac case study).
 
-The structure follows the practical workflow of a Data Analyst, from data preparation to analysis and visualization.
+The structure is intentionally organized to reflect how a data analyst works in practice:
 
----
-
-## Repository Structure
-
-### Data Wrangling
-Preparing raw data for analysis through:
-- Data import and DataFrame creation
-- Selecting, indexing, and filtering
-- String filtering with regex
-- Range and set filtering
-- Cleaning and updating data
-- Joins and merges
-- Writing reusable functions
-- Error handling and debugging techniques
-
-
-### Visualization
-Exploring data visually using:
-- Pandas plotting
-- Seaborn visualizations
-
-### Challenges
-Structured data problems solved using Pandas and analytical thinking.
-
-### Project
-End-to-end data analysis project applying the complete workflow.
+**Clean data → Understand data → Visualize insights → Solve challenges → Build a project**
 
 ---
 
-## Tools and Libraries
-- Python
-- Pandas
-- Seaborn
+## 📁 Repository Structure
+
+### 🧹 `01_data_wrangling/`
+
+Core Pandas skills for handling and transforming data:
+
+* Selecting and indexing data
+* Conditional filtering
+* Cleaning and updating datasets
+* String methods and text handling
+* Grouping and merging
+* Writing reusable functions
+
+---
+
+### 🧼 `02_data_cleaning/`
+
+Focused exercises on real-world data quality problems:
+
+* Data exploration challenges
+* Cleaning messy datasets with Pandas
+* Working with datetime data
+* Quality assessment
+* Creating meaningful categories
+* Storytelling warmups with plotting
+
+---
+
+### 📈 `03_visualization/`
+
+Learning how to communicate insights visually:
+
+* Seaborn visualization exercises
+* Storytelling through plots
+* Turning data into readable insights
+
+---
+
+### 🧩 `04_challenges/`
+
+Independent problem-solving challenges to reinforce Pandas skills:
+
+* Debugging tasks
+* Data cleaning challenges
+* Grouping and transformation tasks
+* Applying logic to real datasets
+
+---
+
+### 🚀 `05_project/`
+
+Complete Eniac e-commerce data analysis project.
+
+Includes:
+
+* Data quality validation
+* Revenue validation across tables
+* Category creation
+* Exploratory data analysis
+* Visualization and storytelling
+* Final project notebook
+
+---
+
+### 🗂 `cleaned_datasets/`
+
+Processed and validated datasets used in the project.
+
+---
+
+### 📦 `datasets/`
+
+Original raw datasets provided for the exercises.
+
+---
+
+## 🧠 What This Repository Demonstrates
+
+This repository shows practical ability in:
+
+* Data cleaning and validation
+* Working with messy real-world datasets
+* Exploratory data analysis (EDA)
+* Data visualization and storytelling
+* Structuring analysis like a professional data analyst
+* Building a complete end-to-end data project
+
+---
+
+## 🛠 Tools Used
+
+* Python
+* Pandas
+* Seaborn
+* Matplotlib
+
+---
+
+## 📌 Case Study: Eniac E-commerce Dataset
+
+The project section analyzes real sales data from an e-commerce company to:
+
+* Validate revenue consistency across tables
+* Understand discount strategies
+* Analyze customer behavior
+* Extract business insights from transactional data
+
+---
+
+## 🚀 Outcome
+
+By the end of this journey, the focus shifts from:
+
+**“writing Pandas code”**  
+to  
+**“thinking and working like a data analyst.”**
