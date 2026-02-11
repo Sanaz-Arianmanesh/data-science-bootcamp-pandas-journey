@@ -123,4 +123,4 @@ By the end of this journey, the focus shifts from:
 
 **“writing Pandas code”**  
 to  
-**“thinking and working like a data analyst.”**
+**“thinking and working like a scientist.”**
